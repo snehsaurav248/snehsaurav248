@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Object_Detection_System](https://github.com/snehsaurav248/object_detection_system)
 
-- 🌱 I’m currently learning **Django,System Design**
+- 🌱 I’m currently learning **MERN,System Design**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
